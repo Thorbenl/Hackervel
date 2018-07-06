@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Thorben
- * Date: 06.07.2018
- * Time: 12:03
- */
+<h1>Admin Index Route</h1>
